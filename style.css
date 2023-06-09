@@ -198,7 +198,7 @@ header i{
 /* responsive */
 @media (max-width: 1400px){
     header{
-        padding: 10px 0.5%;
+        padding: 10px 3%;
     }
     .navbar{
         display: none;
